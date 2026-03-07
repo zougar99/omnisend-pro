@@ -1,0 +1,6 @@
+{
+  "version": "6.0",
+  "changelog": "v6.0 - Added Telegram (Bot API + User Account), Auto-Updater, 80+ tools.",
+  "download_url": "https://github.com/zougar99/omnisend-pro/releases/latest/download/OmniSendPro.exe",
+  "min_python": "3.8"
+}
