@@ -1,4 +1,4 @@
-# Email Sender Pro
+# 📧 Email Sender Pro
 
 A professional desktop bulk email sending application built with Python and CustomTkinter.
 
